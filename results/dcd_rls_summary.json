@@ -1,0 +1,17 @@
+{
+  "n_subjects": 50,
+  "taps_per_ref": 3,
+  "forgetting_factor": 0.999,
+  "Nu": 8,
+  "Mb": 16,
+  "baseline_riemann_acc_mean": 0.5071794871794871,
+  "baseline_csp_lda_acc_mean": 0.5092307692307692,
+  "dcd_rls_acc_mean": 0.4876923076923076,
+  "dcd_rls_acc_std": 0.0062597721106326595,
+  "dcd_rls_auc_mean": 0.5021315789473684,
+  "dcd_rls_elapsed_seconds": 19.8,
+  "dcd_rls_csp_acc_mean": 0.5117948717948717,
+  "dcd_rls_csp_acc_std": 0.011421055103241064,
+  "dcd_rls_csp_auc_mean": 0.49263157894736836,
+  "dcd_rls_csp_elapsed_seconds": 1665.9
+}
