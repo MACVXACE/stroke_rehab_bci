@@ -1,0 +1,23 @@
+2026-09-25 04:06:10,331 [INFO] Loading data from MOABB (subjects=[1, 2, 3])...
+2026-09-25 04:06:10,332 [WARNING] Choosing from all possible events
+2026-09-25 04:06:13,872 [INFO] Loaded 117 trials in 3.5s.
+2026-09-25 04:06:13,872 [INFO] Working set: 117 trials across 3 subjects.
+2026-09-25 04:06:13,872 [INFO] 0/3 subjects already completed; 3 remaining.
+2026-09-25 04:06:16,831 [INFO] LOSO-CV pass complete. Rerun this script to retry any subject that errored above.
+2026-09-25 04:06:16,833 [INFO] Summarizing 3 completed subject folds.
+2026-09-25 04:06:16,834 [INFO] Wrote /Users/macvxace/Downloads/stroke_rehab_bci/results/summary.json
+2026-09-25 04:06:18,350 [INFO] Saved confusion matrix plot to /Users/macvxace/Downloads/stroke_rehab_bci/results/confusion_matrix.png
+2026-09-25 04:06:18,350 [INFO] Refitting Riemannian MDM on all subjects for deployment (0.513 > 0.504).
+2026-09-25 04:06:18,536 [INFO] Saved deployment pipeline to /Users/macvxace/Downloads/stroke_rehab_bci/models/trained_loso_pipeline.joblib (for scripts/05_Simulated_Rehab_Interface.py only).
+2026-09-25 04:06:21,717 [INFO] Loading data from MOABB (subjects=all)...
+2026-09-25 04:06:21,717 [WARNING] Choosing from all possible events
+2026-09-25 04:07:19,936 [INFO] Loaded 1950 trials in 58.2s.
+2026-09-25 04:07:58,110 [INFO] Cached epochs to /Users/macvxace/Downloads/stroke_rehab_bci/data/processed/liu2024_epochs.npz
+2026-09-25 04:07:58,112 [INFO] Working set: 1950 trials across 50 subjects.
+2026-09-25 04:07:58,118 [INFO] 3/50 subjects already completed; 47 remaining.
+2026-09-25 04:24:02,222 [INFO] LOSO-CV pass complete. Rerun this script to retry any subject that errored above.
+2026-09-25 04:24:02,299 [INFO] Summarizing 50 completed subject folds.
+2026-09-25 04:24:02,308 [INFO] Wrote /Users/macvxace/Downloads/stroke_rehab_bci/results/summary.json
+2026-09-25 04:24:03,309 [INFO] Saved confusion matrix plot to /Users/macvxace/Downloads/stroke_rehab_bci/results/confusion_matrix.png
+2026-09-25 04:24:03,311 [INFO] Refitting CSP+LDA on all subjects for deployment (0.509 >= 0.507).
+2026-09-25 04:24:16,795 [INFO] Saved deployment pipeline to /Users/macvxace/Downloads/stroke_rehab_bci/models/trained_loso_pipeline.joblib (for scripts/05_Simulated_Rehab_Interface.py only).

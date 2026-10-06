@@ -1,0 +1,9 @@
+{
+  "n_subjects": 50,
+  "baseline_riemann_acc_mean": 0.5071794871794871,
+  "baseline_csp_lda_acc_mean": 0.5092307692307692,
+  "rpa_unsupervised_acc_mean": 0.521025641025641,
+  "rpa_unsupervised_acc_std": 0.06310818487349809,
+  "tangent_space_acc_mean": 0.49935483870967745,
+  "tangent_space_acc_std": 0.07248811305903556
+}
